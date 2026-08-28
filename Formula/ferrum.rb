@@ -1,20 +1,20 @@
 class Ferrum < Formula
   desc "Production-grade LLM inference in Rust for Apple Silicon and Linux CPU"
   homepage "https://github.com/sizzlecar/ferrum-infer-rs"
-  version "0.8.1"
+  version "0.8.2"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/sizzlecar/ferrum-infer-rs/releases/download/v0.8.1/ferrum-macos-aarch64.tar.gz"
-      sha256 "386ebdf6b7b4d3c138452d74c8b85fd08a2c064d3080c1f99b6ef239e66b2a48"
+      url "https://github.com/sizzlecar/ferrum-infer-rs/releases/download/v0.8.2/ferrum-macos-aarch64.tar.gz"
+      sha256 "4d05bbdc3ed2f8a2d8226567e859ebdcd5afe3b36b9af12db706305d3767f8e0"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/sizzlecar/ferrum-infer-rs/releases/download/v0.8.1/ferrum-linux-x86_64.tar.gz"
-      sha256 "8e35c5798302086ccecde7d049a5563dfd7639da948d4fb0fbf645a53ac0d1cd"
+      url "https://github.com/sizzlecar/ferrum-infer-rs/releases/download/v0.8.2/ferrum-linux-x86_64.tar.gz"
+      sha256 "07dc64710dc48b3ffba536de6e97878cc8b619833473ecffbd2d2905f3f34d61"
     end
   end
 
