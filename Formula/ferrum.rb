@@ -5,15 +5,15 @@ class Ferrum < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/sizzlecar/ferrum-infer-rs/releases/download/v0.8.5/ferrum-macos-aarch64.tar.gz"
-      sha256 "8dbca5eb95fd4b3030950bae4628541b85beb608b9c00c2cca7f386a5d525d2b"
+      url "https://github.com/sizzlecar/ferrum-infer-rs/releases/download/v0.8.6/ferrum-macos-aarch64.tar.gz"
+      sha256 "620a0d5db5725ba7f7f9c37393fbfed24b14d5c5dca85e79c755d23a39c0da10"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/sizzlecar/ferrum-infer-rs/releases/download/v0.8.5/ferrum-linux-x86_64.tar.gz"
-      sha256 "63e3aa96400a36d380418b0b5e52e19b96c13bd25b9749051e0dc0fe892c051c"
+      url "https://github.com/sizzlecar/ferrum-infer-rs/releases/download/v0.8.6/ferrum-linux-x86_64.tar.gz"
+      sha256 "4324f747ffab86a9194c79e8fd3094b2a664b3794da119648f879c70a2e84f31"
     end
   end
 
