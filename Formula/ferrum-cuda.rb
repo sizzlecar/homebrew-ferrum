@@ -1,8 +1,8 @@
 class FerrumCuda < Formula
   desc "Production-grade LLM inference in Rust with NVIDIA CUDA sm89 support"
   homepage "https://github.com/sizzlecar/ferrum-infer-rs"
-  url "https://github.com/sizzlecar/ferrum-infer-rs/releases/download/v0.11.0/ferrum-linux-x86_64-cuda-sm89.tar.gz"
-  sha256 "df0b4bba6ab1217393f9ba3ba6991a4ce477aa41e74f3a3719545a916876891f"
+  url "https://github.com/sizzlecar/ferrum-infer-rs/releases/download/v0.12.0/ferrum-linux-x86_64-cuda-sm89.tar.gz"
+  sha256 "b6634f46a4d2e3fc388ad05859045e8f2de2fd81ea0782b7f90e9170f21dc200"
   license "MIT"
 
   depends_on :linux
