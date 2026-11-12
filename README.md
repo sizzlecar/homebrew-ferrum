@@ -1,8 +1,8 @@
 # homebrew-ferrum
 
-Homebrew tap for Ferrum **0.13.0**, a Rust LLM runtime and OpenAI-compatible server.
+Homebrew tap for Ferrum **0.19.1**, a Rust LLM runtime and OpenAI-compatible server.
 
-[Website](https://ferrum.pandaailabs.com/) · [Documentation / 中文](https://github.com/sizzlecar/ferrum-infer-rs#readme) · [Release notes](https://github.com/sizzlecar/ferrum-infer-rs/releases/tag/v0.13.0)
+[Website](https://ferrum.pandaailabs.com/) · [Documentation / 中文](https://github.com/sizzlecar/ferrum-infer-rs#readme) · [Release notes](https://github.com/sizzlecar/ferrum-infer-rs/releases/tag/v0.19.1)
 
 ## Install
 
